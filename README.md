@@ -1,4 +1,4 @@
-###Proposal for Creating an Interconnected Cloud Service
+### Proposal for Creating an Interconnected Cloud Service
 
 
 # Abstraction
