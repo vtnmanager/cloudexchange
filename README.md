@@ -35,11 +35,11 @@ Why OpenDayLight and MPLS VPN In OpenStack?
 
 # Goal and Objectives
 For user’s perspective, the goals of the proposal are.
-	Get data close to global applications
-	Avoid latency cost of commit between sites
-	Keep running during intermittent network failures between sites
-	Keep running if a site fails
-	Enable simple recovery when it comes back
+- Get data close to global applications
+- Avoid latency cost of commit between sites
+- Keep running during intermittent network failures between sites
+- Keep running if a site fails
+- Enable simple recovery when it comes back
 
 # Use Case 
 DB HA(High Availability) configuration across multi-region using L2 MPLS VPN network
